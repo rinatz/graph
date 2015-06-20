@@ -1,0 +1,21 @@
+{
+    "name": "graph",
+    "description": "Graph library for D.",
+    "copyright": "Copyright (c) 2015 Kenichiro IDA",
+    "authors": ["Kenichiro IDA"],
+    "dependencies": {
+    },
+
+    "configurations": [
+        {
+            "name": "graph",
+            "targetType": "sourceLibrary",
+            "targetPath": "bin"
+        },
+        {
+            "name": "graphTest",
+            "targetType": "executable",
+            "targetPath": "bin"
+        }
+    ]
+}
