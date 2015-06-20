@@ -1,2 +1,2 @@
 # graph
-Scrap graph library written by D programming language.
+Scrap graph library written by D programing language.
