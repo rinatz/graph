@@ -1,2 +1,2 @@
 # graph
-Graph library written by D programing language (srcap library for my study).
+Graph library written by D programing language (scrap library for my study).
